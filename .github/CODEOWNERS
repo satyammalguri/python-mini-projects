@@ -1,0 +1,10 @@
+# Define ownership for specific files or directories
+
+# Owners for all files in the repository
+* @satyammalguri
+
+# Owners for files in the Calculate_age project
+projects/Calculate_age/ @satyammalguri
+
+# Owners for GitHub configuration files
+.github/ @satyammalguri
