@@ -1,6 +1,6 @@
 # Description
 
-A short summary of what is included in your Pull Request.
+A summary of what is included in your Pull Request.
 
 Fixes #(issue_no)
 
@@ -25,3 +25,5 @@ Please tick all the boxes that are fulfilled by your Pull Request.
 - [ ] I have included a requirements.txt file (if external libraries are required.)
 - [ ] My changes do not produce any warnings.
 - [ ] I have added a working sample/screenshot of the script.
+
+## testing
