@@ -45,5 +45,5 @@ for m in range(1, localtime.tm_mon):
     day = day + month_days(m, leap_year)
 
 day = day + localtime.tm_mday
-print("%s's user real is %d years or " % (name, year), end="")
+print("%s's user Not real is === %d years or " % (name, year), end="")
 print("%d months or %d days" % (month, day))
